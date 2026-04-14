@@ -1,0 +1,13 @@
+1.
+2.
+3. 
+- Java is a pass by value language.
+- sau khi gọi "swap", java truyền bản sao của reference đang trỏ tới, o1 là bản sao của obj "Jungle", o2 là bản sao của obj "cinderella"
+- changeTitle(jungleDVD, cinderellaDVD.getTitle()) đổi được title của jungleDVD vì tham số dvd trong hàm đang trỏ tới cùng object với jungleDVD. Lệnh dvd.setTitle(title) sửa trực tiếp trạng thái của object đó, nên object bên ngoài cũng bị đổi theo.
+4. 
+5. all done
+6. all gooood
+7. good 
+8. 
+
+
